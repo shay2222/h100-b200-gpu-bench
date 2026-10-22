@@ -1,0 +1,2 @@
+# CUDA build of torch is installed separately, see README.
+torch>=2.5
